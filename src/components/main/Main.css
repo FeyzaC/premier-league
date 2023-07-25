@@ -1,0 +1,14 @@
+.divCard img {
+  width: 250px;
+  height: 200px;
+}
+
+.divCard {
+  width: 50%;
+  padding: 2rem;
+  margin: 1rem auto;
+  background-color: pink;
+  border-radius: 25px;
+  box-shadow: rgba(177, 2, 171, 0.857) 0px 10px 36px 0px,
+    rgba(161, 3, 200, 0.911) 0px 0px 0px 1px;
+}
